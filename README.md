@@ -1,2 +1,2 @@
 # IntrotoMLwithPY
-Repo of completed stuffs from the Introduction to Machine Learning with Python book
+Repo of completed stuffs from Introduction to Machine Learning with Python by Andreas C. Mueller and Sarah Guido
